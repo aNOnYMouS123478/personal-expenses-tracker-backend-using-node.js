@@ -13,7 +13,7 @@ Prerequisites
 
 Setup and Run Instructions
     1. Clone the repository:
-    git clone https://github.com/yourusername/personal-expense-tracker-backend.git
+    git clone https://github.com/aNOnYMouS123478/personal-expenses-tracker-backend-using-node.js
     2. Navigate to the project directory:
     cd personal-expense-tracker-backend
     3. Install dependencies:
