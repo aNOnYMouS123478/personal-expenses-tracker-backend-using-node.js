@@ -146,3 +146,11 @@ Folder Structure
 Troubleshooting
 SQLite Connection Error: Ensure the data/ folder exists in the root directory.
 Missing Dependencies: Run npm install to ensure all dependencies are installed.
+
+Personal Expenses Tracker Backend Using Node.js -Api testing by postman Screenshots.
+https://drive.google.com/drive/folders/1FYDgB7MFp15tDywTcYTtp0KqFND72XnD?usp=sharing
+
+
+
+
+
